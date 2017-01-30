@@ -1,0 +1,24 @@
+C:\Kunal\Course\SMA\p4\Peer-Comm-SelfHosted (1)\Message\bin\Debug\Message.dll.config
+C:\Kunal\Course\SMA\p4\Peer-Comm-SelfHosted (1)\Message\bin\Debug\Message.dll
+C:\Kunal\Course\SMA\p4\Peer-Comm-SelfHosted (1)\Message\bin\Debug\Message.pdb
+C:\Kunal\Course\SMA\p4\Peer-Comm-SelfHosted (1)\Message\bin\Debug\Serialization.dll
+C:\Kunal\Course\SMA\p4\Peer-Comm-SelfHosted (1)\Message\bin\Debug\Serialization.pdb
+C:\Kunal\Course\SMA\p4\Peer-Comm-SelfHosted (1)\Message\obj\Debug\Message.csprojResolveAssemblyReference.cache
+C:\Kunal\Course\SMA\p4\Peer-Comm-SelfHosted (1)\Message\obj\Debug\Message.dll
+C:\Kunal\Course\SMA\p4\Peer-Comm-SelfHosted (1)\Message\obj\Debug\Message.pdb
+C:\Kunal\Course\SMA\p4\Remote Testharness\Message\bin\Debug\Message.dll.config
+C:\Kunal\Course\SMA\p4\Remote Testharness\Message\bin\Debug\Message.dll
+C:\Kunal\Course\SMA\p4\Remote Testharness\Message\bin\Debug\Message.pdb
+C:\Kunal\Course\SMA\p4\Remote Testharness\Message\bin\Debug\Serialization.dll
+C:\Kunal\Course\SMA\p4\Remote Testharness\Message\bin\Debug\Serialization.pdb
+C:\Kunal\Course\SMA\p4\Remote Testharness\Message\obj\Debug\Message.csprojResolveAssemblyReference.cache
+C:\Kunal\Course\SMA\p4\Remote Testharness\Message\obj\Debug\Message.dll
+C:\Kunal\Course\SMA\p4\Remote Testharness\Message\obj\Debug\Message.pdb
+C:\Kunal\Course\SMA\Project work\Remote Testharness\Remote Testharness\Message\bin\Debug\Message.dll.config
+C:\Kunal\Course\SMA\Project work\Remote Testharness\Remote Testharness\Message\bin\Debug\Message.dll
+C:\Kunal\Course\SMA\Project work\Remote Testharness\Remote Testharness\Message\bin\Debug\Message.pdb
+C:\Kunal\Course\SMA\Project work\Remote Testharness\Remote Testharness\Message\bin\Debug\Serialization.dll
+C:\Kunal\Course\SMA\Project work\Remote Testharness\Remote Testharness\Message\bin\Debug\Serialization.pdb
+C:\Kunal\Course\SMA\Project work\Remote Testharness\Remote Testharness\Message\obj\Debug\Message.csprojResolveAssemblyReference.cache
+C:\Kunal\Course\SMA\Project work\Remote Testharness\Remote Testharness\Message\obj\Debug\Message.dll
+C:\Kunal\Course\SMA\Project work\Remote Testharness\Remote Testharness\Message\obj\Debug\Message.pdb

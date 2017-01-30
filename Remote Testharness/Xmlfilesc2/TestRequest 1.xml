@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<testRequest>
+  <author>Tejan Paliwal</author>
+  <test name="First Test">
+    <testDriver>Testdriver1.dll</testDriver>
+    <library>Codetotest1.dll</library>
+  </test>
+  <test name="Second Test">
+    <testDriver>Testdriver2.dll</testDriver>
+    <library>Codetotest2.dll</library>
+  </test> 
+  </testRequest>

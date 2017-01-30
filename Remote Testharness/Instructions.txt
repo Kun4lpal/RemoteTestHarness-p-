@@ -1,0 +1,12 @@
+In order to run the GUI, perform the following steps:
+
+
+I would suggest you to first check toSend and SavedFiles folder in Repository as well as TServer folder and delete any temp files available.
+The savedFIles and toSend folder should only contains DLL files required for testing. 
+
+
+1) Go to button definition for sendmessage_click and connect_click in the windowsXaml.cs file and uncomment the instructions inside them.
+2) Delete the text highlighted in the .cs files from 119 to 155 from client1 and 94 to 133 from client 2 window.xaml.cs File. 
+3) You can see the comment : DELETE THE FOLLOWING TEXT there. 
+4) NOTE PEER-COMM FOLDER IN PROJECT MAIN DIR IS THE CLIENT 1 MAIN DIR.
+5) TO CHECK THE GETLOG FUNCION, remove line 91 and 73 from client 1 and client 2 window.xaml.cs respectively. 

@@ -1,0 +1,68 @@
+﻿<!--
+=========================================================================
+  Window1.xaml - WPF Interface for WCF Communicator
+  
+  Kunal Paliwal, CSE681 - Software Modeling & Analysis, Fall 2011
+=========================================================================
+-->
+<Window x:Class="WPF_GUI.Client1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Unloaded="Window_Unloaded"
+    Title="Window1" Height="626" Width="655" >
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="160*"/>
+            <ColumnDefinition Width="487*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40" />
+            <RowDefinition Height="40" />
+            <RowDefinition Height="40" />
+            <RowDefinition Height="40" />
+            <RowDefinition Height="25" />
+            <RowDefinition Height="15"/>
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <StackPanel Grid.Row="0" Orientation="Horizontal" Grid.ColumnSpan="2">
+            <TextBox Height="23" Width="320" Margin="30 0" Name="RemoteAddressTextBox" VerticalAlignment="Center">
+                http://localhost</TextBox>
+            <TextBox Height="23" Margin="20,0" Name="RemotePortTextBox" VerticalAlignment="Center" Width="78"
+               HorizontalContentAlignment="Center">4000</TextBox>
+            <TextBox Height="23" Margin="20,0" Name="LocalPortTextBox" VerticalAlignment="Center" Width="78"
+               HorizontalContentAlignment="Center">4000</TextBox>
+        </StackPanel>
+
+        <Label Height="28" Width="320" Margin="35,8,292,4" x:Name="label1" VerticalAlignment="Center"
+             BorderThickness="1" Background="Wheat" HorizontalContentAlignment="Center" Content="Enter Remote machine address, remote port, local port" Grid.Row="1" Grid.ColumnSpan="2"/>
+        <Button Height="29" Margin="220,5,167,0" x:Name="ConnectButton" VerticalAlignment="Top" Click="ConnectButton_Click" Content="Begin Tests" RenderTransformOrigin="1.346,0.292" Grid.Row="1" Grid.Column="1"/>
+        <Button Height="30" Margin="220,6,167,4" x:Name="SendButton" VerticalAlignment="Center"
+              Click="SendMessageButton_Click" Content="Perform Tests" Grid.Row="2" Grid.Column="1"/>
+
+        <Grid Grid.Row="5" Grid.ColumnSpan="2" Margin="0,0,0,370" Grid.RowSpan="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="250*"/>
+                <ColumnDefinition Width="397*"/>
+            </Grid.ColumnDefinitions>
+            <Label Height="28" Margin="0,6,62,6" Name="label3" VerticalAlignment="Center"
+             HorizontalAlignment="Right" Width="210" HorizontalContentAlignment="Center" Grid.Column="1">
+                Received Messages</Label>
+            <Label Height="28" Margin="59,6,0,6" Name="label2" VerticalAlignment="Center"
+             HorizontalAlignment="Left" Width="210" HorizontalContentAlignment="Center" Grid.ColumnSpan="2">
+                Sent Messages</Label>
+        </Grid>
+        <Grid Grid.Row="6" Grid.ColumnSpan="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition />
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+            <ListBox Grid.Column="0" Margin="30,20,15,170" Name="listBox1"  />
+            <ListBox Grid.Column="1" Margin="15,20,30,170" Name="listBox2"  />
+            <Button x:Name="button" Content="Get Logs" HorizontalAlignment="Left" Margin="30,250,0,0" VerticalAlignment="Top" Width="75" Click="button_Click"/>
+            <ListBox x:Name="listBox4" HorizontalAlignment="Left" Height="90" Margin="45,285,0,0" VerticalAlignment="Top" Width="330" Grid.ColumnSpan="2"/>
+        </Grid>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="23" Margin="345,11,0,0" Grid.Row="1" TextWrapping="Wrap" Text="Press to create channel" VerticalAlignment="Top" Width="132" Grid.Column="1"/>
+        <TextBox x:Name="textBox1" HorizontalAlignment="Left" Height="23" Margin="345,11,0,0" Grid.Row="2" TextWrapping="Wrap" Text="Press to send message" VerticalAlignment="Top" Width="132" Grid.Column="1"/>
+        <TextBox x:Name="textBox2" Grid.ColumnSpan="2" HorizontalAlignment="Left" Height="24" Margin="35,6,0,0" Grid.Row="2" TextWrapping="Wrap" Text="Files available in the send path:" VerticalAlignment="Top" Width="175"/>
+        <ListBox x:Name="listBox3" HorizontalAlignment="Left" Height="59" Margin="35,1,0,0" Grid.Row="3" VerticalAlignment="Top" Width="320" Grid.ColumnSpan="2" Grid.RowSpan="2"/>
+    </Grid>
+</Window>

@@ -1,0 +1,34 @@
+C:\Kunal\Course\SMA\p4\Peer-Comm-SelfHosted (1)\Logger\bin\Debug\Logger.dll.config
+C:\Kunal\Course\SMA\p4\Peer-Comm-SelfHosted (1)\Logger\bin\Debug\Logger.dll
+C:\Kunal\Course\SMA\p4\Peer-Comm-SelfHosted (1)\Logger\bin\Debug\Logger.pdb
+C:\Kunal\Course\SMA\p4\Peer-Comm-SelfHosted (1)\Logger\bin\Debug\CS-BlockingQueue.exe
+C:\Kunal\Course\SMA\p4\Peer-Comm-SelfHosted (1)\Logger\bin\Debug\Parser.dll
+C:\Kunal\Course\SMA\p4\Peer-Comm-SelfHosted (1)\Logger\bin\Debug\CS-BlockingQueue.pdb
+C:\Kunal\Course\SMA\p4\Peer-Comm-SelfHosted (1)\Logger\bin\Debug\Parser.pdb
+C:\Kunal\Course\SMA\p4\Peer-Comm-SelfHosted (1)\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+C:\Kunal\Course\SMA\p4\Peer-Comm-SelfHosted (1)\Logger\obj\Debug\Logger.dll
+C:\Kunal\Course\SMA\p4\Peer-Comm-SelfHosted (1)\Logger\obj\Debug\Logger.pdb
+C:\Kunal\Course\SMA\p4\Remote Testharness\Logger\bin\Debug\Logger.dll.config
+C:\Kunal\Course\SMA\p4\Remote Testharness\Logger\bin\Debug\Logger.dll
+C:\Kunal\Course\SMA\p4\Remote Testharness\Logger\bin\Debug\Logger.pdb
+C:\Kunal\Course\SMA\p4\Remote Testharness\Logger\bin\Debug\CS-BlockingQueue.dll
+C:\Kunal\Course\SMA\p4\Remote Testharness\Logger\bin\Debug\Parser.dll
+C:\Kunal\Course\SMA\p4\Remote Testharness\Logger\bin\Debug\CS-BlockingQueue.pdb
+C:\Kunal\Course\SMA\p4\Remote Testharness\Logger\bin\Debug\Parser.pdb
+C:\Kunal\Course\SMA\p4\Remote Testharness\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+C:\Kunal\Course\SMA\p4\Remote Testharness\Logger\obj\Debug\Logger.dll
+C:\Kunal\Course\SMA\p4\Remote Testharness\Logger\obj\Debug\Logger.pdb
+C:\Kunal\Course\SMA\Project work\Remote Testharness\Remote Testharness\Logger\bin\Debug\Logger.dll.config
+C:\Kunal\Course\SMA\Project work\Remote Testharness\Remote Testharness\Logger\bin\Debug\Logger.dll
+C:\Kunal\Course\SMA\Project work\Remote Testharness\Remote Testharness\Logger\bin\Debug\Logger.pdb
+C:\Kunal\Course\SMA\Project work\Remote Testharness\Remote Testharness\Logger\bin\Debug\CS-BlockingQueue.dll
+C:\Kunal\Course\SMA\Project work\Remote Testharness\Remote Testharness\Logger\bin\Debug\Interface.dll
+C:\Kunal\Course\SMA\Project work\Remote Testharness\Remote Testharness\Logger\bin\Debug\Parser.dll
+C:\Kunal\Course\SMA\Project work\Remote Testharness\Remote Testharness\Logger\bin\Debug\Message.dll
+C:\Kunal\Course\SMA\Project work\Remote Testharness\Remote Testharness\Logger\bin\Debug\CS-BlockingQueue.pdb
+C:\Kunal\Course\SMA\Project work\Remote Testharness\Remote Testharness\Logger\bin\Debug\Interface.pdb
+C:\Kunal\Course\SMA\Project work\Remote Testharness\Remote Testharness\Logger\bin\Debug\Parser.pdb
+C:\Kunal\Course\SMA\Project work\Remote Testharness\Remote Testharness\Logger\bin\Debug\Message.pdb
+C:\Kunal\Course\SMA\Project work\Remote Testharness\Remote Testharness\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+C:\Kunal\Course\SMA\Project work\Remote Testharness\Remote Testharness\Logger\obj\Debug\Logger.dll
+C:\Kunal\Course\SMA\Project work\Remote Testharness\Remote Testharness\Logger\obj\Debug\Logger.pdb

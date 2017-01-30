@@ -1,0 +1,32 @@
+Project overview:
+
+I have implemented the Test Harness based on design in my Project 3 OCD, with few improvements.
+
+ACTIVITY DIAGRAM:
+
+1- Earlier in my OCD design, client used to check if testfiles are available in the repository. I have changed my design such that client always sends required test files to the repository.
+The older versions of drivers with same names can be replaces with newer version this way.
+
+2 - Earlier the GUI showcased in my design had capability to query logs on the basis of date and time. This has not been implemented in my current design. It only fetches available logs for the current author.
+
+3 - My gui has a relatively different design. Instead of just displayin status of the test, the full test results are displayed.   
+
+PACKAGE DIAGRAM:(Only changes)
+
+1- GUI and Client query have been implemented by the client package. File manager package has not been implemented in my design. It is available in the test harness side only.
+
+2- App domain manager package has been implemented with test harness package.
+
+This project has been a learning experience. Here are few things I have learnt through this project:
+
+1. Use of C# programming language and .Net facilities, use of  application domains, mutli-threading.
+2. Good package design.
+3. GUI design and implementation using WPF.
+4. Constructing test stubs for packages.
+5. Good practices while designing an application.
+6. Creating, searching and deleting directories.
+7. Use of WCF communication for message passing. 
+8. Hosting and using a service.
+
+The project 3 OCD design was important to create an image of the detailed working of a remote Test harness. The changes in design were necessary to allow a more simpler implementation.  
+  

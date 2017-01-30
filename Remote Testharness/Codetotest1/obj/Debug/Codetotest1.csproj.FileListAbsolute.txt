@@ -1,0 +1,12 @@
+C:\Kunal\Course\SMA\p4\Peer-Comm-SelfHosted (1)\Codetotest1\bin\Debug\Codetotest1.dll.config
+C:\Kunal\Course\SMA\p4\Peer-Comm-SelfHosted (1)\Codetotest1\bin\Debug\Codetotest1.dll
+C:\Kunal\Course\SMA\p4\Peer-Comm-SelfHosted (1)\Codetotest1\bin\Debug\Codetotest1.pdb
+C:\Kunal\Course\SMA\p4\Peer-Comm-SelfHosted (1)\Codetotest1\obj\Debug\Codetotest1.csprojResolveAssemblyReference.cache
+C:\Kunal\Course\SMA\p4\Peer-Comm-SelfHosted (1)\Codetotest1\obj\Debug\Codetotest1.dll
+C:\Kunal\Course\SMA\p4\Peer-Comm-SelfHosted (1)\Codetotest1\obj\Debug\Codetotest1.pdb
+C:\Kunal\Course\SMA\Project work\Remote Testharness\Remote Testharness\Codetotest1\bin\Debug\Codetotest1.dll.config
+C:\Kunal\Course\SMA\Project work\Remote Testharness\Remote Testharness\Codetotest1\bin\Debug\Codetotest1.dll
+C:\Kunal\Course\SMA\Project work\Remote Testharness\Remote Testharness\Codetotest1\bin\Debug\Codetotest1.pdb
+C:\Kunal\Course\SMA\Project work\Remote Testharness\Remote Testharness\Codetotest1\obj\Debug\Codetotest1.csprojResolveAssemblyReference.cache
+C:\Kunal\Course\SMA\Project work\Remote Testharness\Remote Testharness\Codetotest1\obj\Debug\Codetotest1.dll
+C:\Kunal\Course\SMA\Project work\Remote Testharness\Remote Testharness\Codetotest1\obj\Debug\Codetotest1.pdb

@@ -1,0 +1,24 @@
+C:\Kunal\Course\SMA\p4\Peer-Comm-SelfHosted (1)\Parser\bin\Debug\Parser.dll.config
+C:\Kunal\Course\SMA\p4\Peer-Comm-SelfHosted (1)\Parser\bin\Debug\Parser.dll
+C:\Kunal\Course\SMA\p4\Peer-Comm-SelfHosted (1)\Parser\bin\Debug\Parser.pdb
+C:\Kunal\Course\SMA\p4\Peer-Comm-SelfHosted (1)\Parser\bin\Debug\CS-BlockingQueue.exe
+C:\Kunal\Course\SMA\p4\Peer-Comm-SelfHosted (1)\Parser\bin\Debug\CS-BlockingQueue.pdb
+C:\Kunal\Course\SMA\p4\Peer-Comm-SelfHosted (1)\Parser\obj\Debug\Parser.csprojResolveAssemblyReference.cache
+C:\Kunal\Course\SMA\p4\Peer-Comm-SelfHosted (1)\Parser\obj\Debug\Parser.dll
+C:\Kunal\Course\SMA\p4\Peer-Comm-SelfHosted (1)\Parser\obj\Debug\Parser.pdb
+C:\Kunal\Course\SMA\p4\Remote Testharness\Parser\bin\Debug\Parser.dll.config
+C:\Kunal\Course\SMA\p4\Remote Testharness\Parser\bin\Debug\Parser.dll
+C:\Kunal\Course\SMA\p4\Remote Testharness\Parser\bin\Debug\Parser.pdb
+C:\Kunal\Course\SMA\p4\Remote Testharness\Parser\bin\Debug\CS-BlockingQueue.dll
+C:\Kunal\Course\SMA\p4\Remote Testharness\Parser\bin\Debug\CS-BlockingQueue.pdb
+C:\Kunal\Course\SMA\p4\Remote Testharness\Parser\obj\Debug\Parser.csprojResolveAssemblyReference.cache
+C:\Kunal\Course\SMA\p4\Remote Testharness\Parser\obj\Debug\Parser.dll
+C:\Kunal\Course\SMA\p4\Remote Testharness\Parser\obj\Debug\Parser.pdb
+C:\Kunal\Course\SMA\Project work\Remote Testharness\Remote Testharness\Parser\bin\Debug\Parser.dll.config
+C:\Kunal\Course\SMA\Project work\Remote Testharness\Remote Testharness\Parser\bin\Debug\Parser.dll
+C:\Kunal\Course\SMA\Project work\Remote Testharness\Remote Testharness\Parser\bin\Debug\Parser.pdb
+C:\Kunal\Course\SMA\Project work\Remote Testharness\Remote Testharness\Parser\bin\Debug\CS-BlockingQueue.dll
+C:\Kunal\Course\SMA\Project work\Remote Testharness\Remote Testharness\Parser\bin\Debug\CS-BlockingQueue.pdb
+C:\Kunal\Course\SMA\Project work\Remote Testharness\Remote Testharness\Parser\obj\Debug\Parser.csprojResolveAssemblyReference.cache
+C:\Kunal\Course\SMA\Project work\Remote Testharness\Remote Testharness\Parser\obj\Debug\Parser.dll
+C:\Kunal\Course\SMA\Project work\Remote Testharness\Remote Testharness\Parser\obj\Debug\Parser.pdb

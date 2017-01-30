@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<testRequest>
+  <author>Kunal Paliwal</author>
+  <test name="First Test">
+    <testDriver>Testdriver1.dll</testDriver>
+    <library>Codetotest1.dll</library>
+  </test>
+  </testRequest>

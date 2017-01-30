@@ -1,0 +1,17 @@
+C:\Kunal\Course\SMA\p4\Peer-Comm-SelfHosted (1)\Serialization\bin\Debug\Serialization.dll.config
+C:\Kunal\Course\SMA\p4\Peer-Comm-SelfHosted (1)\Serialization\bin\Debug\Serialization.dll
+C:\Kunal\Course\SMA\p4\Peer-Comm-SelfHosted (1)\Serialization\bin\Debug\Serialization.pdb
+C:\Kunal\Course\SMA\p4\Peer-Comm-SelfHosted (1)\Serialization\obj\Debug\Serialization.csprojResolveAssemblyReference.cache
+C:\Kunal\Course\SMA\p4\Peer-Comm-SelfHosted (1)\Serialization\obj\Debug\Serialization.dll
+C:\Kunal\Course\SMA\p4\Peer-Comm-SelfHosted (1)\Serialization\obj\Debug\Serialization.pdb
+C:\Kunal\Course\SMA\p4\Remote Testharness\Serialization\bin\Debug\Serialization.dll.config
+C:\Kunal\Course\SMA\p4\Remote Testharness\Serialization\bin\Debug\Serialization.dll
+C:\Kunal\Course\SMA\p4\Remote Testharness\Serialization\bin\Debug\Serialization.pdb
+C:\Kunal\Course\SMA\p4\Remote Testharness\Serialization\obj\Debug\Serialization.dll
+C:\Kunal\Course\SMA\p4\Remote Testharness\Serialization\obj\Debug\Serialization.pdb
+C:\Kunal\Course\SMA\Project work\Remote Testharness\Remote Testharness\Serialization\bin\Debug\Serialization.dll.config
+C:\Kunal\Course\SMA\Project work\Remote Testharness\Remote Testharness\Serialization\bin\Debug\Serialization.dll
+C:\Kunal\Course\SMA\Project work\Remote Testharness\Remote Testharness\Serialization\bin\Debug\Serialization.pdb
+C:\Kunal\Course\SMA\Project work\Remote Testharness\Remote Testharness\Serialization\obj\Debug\Serialization.csprojResolveAssemblyReference.cache
+C:\Kunal\Course\SMA\Project work\Remote Testharness\Remote Testharness\Serialization\obj\Debug\Serialization.dll
+C:\Kunal\Course\SMA\Project work\Remote Testharness\Remote Testharness\Serialization\obj\Debug\Serialization.pdb

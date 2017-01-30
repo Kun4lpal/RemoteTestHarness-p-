@@ -1,0 +1,6 @@
+C:\Kunal\Course\SMA\Project work\Remote Testharness\Remote Testharness\Codetotest2\bin\Debug\Codetotest2.dll.config
+C:\Kunal\Course\SMA\Project work\Remote Testharness\Remote Testharness\Codetotest2\bin\Debug\Codetotest2.dll
+C:\Kunal\Course\SMA\Project work\Remote Testharness\Remote Testharness\Codetotest2\bin\Debug\Codetotest2.pdb
+C:\Kunal\Course\SMA\Project work\Remote Testharness\Remote Testharness\Codetotest2\obj\Debug\Codetotest2.csprojResolveAssemblyReference.cache
+C:\Kunal\Course\SMA\Project work\Remote Testharness\Remote Testharness\Codetotest2\obj\Debug\Codetotest2.dll
+C:\Kunal\Course\SMA\Project work\Remote Testharness\Remote Testharness\Codetotest2\obj\Debug\Codetotest2.pdb

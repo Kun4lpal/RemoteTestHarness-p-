@@ -1,0 +1,30 @@
+C:\Kunal\Course\SMA\p4\Peer-Comm-SelfHosted (1)\Filemanager\bin\Debug\Filemanager.dll.config
+C:\Kunal\Course\SMA\p4\Peer-Comm-SelfHosted (1)\Filemanager\bin\Debug\Filemanager.dll
+C:\Kunal\Course\SMA\p4\Peer-Comm-SelfHosted (1)\Filemanager\bin\Debug\Filemanager.pdb
+C:\Kunal\Course\SMA\p4\Peer-Comm-SelfHosted (1)\Filemanager\bin\Debug\CS-BlockingQueue.exe
+C:\Kunal\Course\SMA\p4\Peer-Comm-SelfHosted (1)\Filemanager\bin\Debug\Parser.dll
+C:\Kunal\Course\SMA\p4\Peer-Comm-SelfHosted (1)\Filemanager\bin\Debug\CS-BlockingQueue.pdb
+C:\Kunal\Course\SMA\p4\Peer-Comm-SelfHosted (1)\Filemanager\bin\Debug\Parser.pdb
+C:\Kunal\Course\SMA\p4\Peer-Comm-SelfHosted (1)\Filemanager\obj\Debug\Filemanager.csprojResolveAssemblyReference.cache
+C:\Kunal\Course\SMA\p4\Peer-Comm-SelfHosted (1)\Filemanager\obj\Debug\Filemanager.dll
+C:\Kunal\Course\SMA\p4\Peer-Comm-SelfHosted (1)\Filemanager\obj\Debug\Filemanager.pdb
+C:\Kunal\Course\SMA\p4\Remote Testharness\Filemanager\bin\Debug\Filemanager.dll.config
+C:\Kunal\Course\SMA\p4\Remote Testharness\Filemanager\bin\Debug\Filemanager.dll
+C:\Kunal\Course\SMA\p4\Remote Testharness\Filemanager\bin\Debug\Filemanager.pdb
+C:\Kunal\Course\SMA\p4\Remote Testharness\Filemanager\bin\Debug\CS-BlockingQueue.dll
+C:\Kunal\Course\SMA\p4\Remote Testharness\Filemanager\bin\Debug\Parser.dll
+C:\Kunal\Course\SMA\p4\Remote Testharness\Filemanager\bin\Debug\CS-BlockingQueue.pdb
+C:\Kunal\Course\SMA\p4\Remote Testharness\Filemanager\bin\Debug\Parser.pdb
+C:\Kunal\Course\SMA\p4\Remote Testharness\Filemanager\obj\Debug\Filemanager.csprojResolveAssemblyReference.cache
+C:\Kunal\Course\SMA\p4\Remote Testharness\Filemanager\obj\Debug\Filemanager.dll
+C:\Kunal\Course\SMA\p4\Remote Testharness\Filemanager\obj\Debug\Filemanager.pdb
+C:\Kunal\Course\SMA\Project work\Remote Testharness\Remote Testharness\Filemanager\bin\Debug\Filemanager.dll.config
+C:\Kunal\Course\SMA\Project work\Remote Testharness\Remote Testharness\Filemanager\bin\Debug\Filemanager.dll
+C:\Kunal\Course\SMA\Project work\Remote Testharness\Remote Testharness\Filemanager\bin\Debug\Filemanager.pdb
+C:\Kunal\Course\SMA\Project work\Remote Testharness\Remote Testharness\Filemanager\bin\Debug\CS-BlockingQueue.dll
+C:\Kunal\Course\SMA\Project work\Remote Testharness\Remote Testharness\Filemanager\bin\Debug\Parser.dll
+C:\Kunal\Course\SMA\Project work\Remote Testharness\Remote Testharness\Filemanager\bin\Debug\CS-BlockingQueue.pdb
+C:\Kunal\Course\SMA\Project work\Remote Testharness\Remote Testharness\Filemanager\bin\Debug\Parser.pdb
+C:\Kunal\Course\SMA\Project work\Remote Testharness\Remote Testharness\Filemanager\obj\Debug\Filemanager.csprojResolveAssemblyReference.cache
+C:\Kunal\Course\SMA\Project work\Remote Testharness\Remote Testharness\Filemanager\obj\Debug\Filemanager.dll
+C:\Kunal\Course\SMA\Project work\Remote Testharness\Remote Testharness\Filemanager\obj\Debug\Filemanager.pdb

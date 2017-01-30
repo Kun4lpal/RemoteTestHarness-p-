@@ -1,0 +1,56 @@
+C:\Kunal\Course\SMA\p4\Remote Testharness\TServer\bin\Debug\TServer.exe.config
+C:\Kunal\Course\SMA\p4\Remote Testharness\TServer\bin\Debug\TServer.exe
+C:\Kunal\Course\SMA\p4\Remote Testharness\TServer\bin\Debug\TServer.pdb
+C:\Kunal\Course\SMA\p4\Remote Testharness\TServer\bin\Debug\Communication.dll
+C:\Kunal\Course\SMA\p4\Remote Testharness\TServer\bin\Debug\CS-BlockingQueue.dll
+C:\Kunal\Course\SMA\p4\Remote Testharness\TServer\bin\Debug\Interface.dll
+C:\Kunal\Course\SMA\p4\Remote Testharness\TServer\bin\Debug\Message.dll
+C:\Kunal\Course\SMA\p4\Remote Testharness\TServer\bin\Debug\TestHarness.dll
+C:\Kunal\Course\SMA\p4\Remote Testharness\TServer\bin\Debug\Utilities.dll
+C:\Kunal\Course\SMA\p4\Remote Testharness\TServer\bin\Debug\Loader.dll
+C:\Kunal\Course\SMA\p4\Remote Testharness\TServer\bin\Debug\Parser.dll
+C:\Kunal\Course\SMA\p4\Remote Testharness\TServer\bin\Debug\Filemanager.dll
+C:\Kunal\Course\SMA\p4\Remote Testharness\TServer\bin\Debug\Loadandexecute.dll
+C:\Kunal\Course\SMA\p4\Remote Testharness\TServer\bin\Debug\Logger.dll
+C:\Kunal\Course\SMA\p4\Remote Testharness\TServer\bin\Debug\Communication.pdb
+C:\Kunal\Course\SMA\p4\Remote Testharness\TServer\bin\Debug\CS-BlockingQueue.pdb
+C:\Kunal\Course\SMA\p4\Remote Testharness\TServer\bin\Debug\Interface.pdb
+C:\Kunal\Course\SMA\p4\Remote Testharness\TServer\bin\Debug\Message.pdb
+C:\Kunal\Course\SMA\p4\Remote Testharness\TServer\bin\Debug\TestHarness.pdb
+C:\Kunal\Course\SMA\p4\Remote Testharness\TServer\bin\Debug\Utilities.pdb
+C:\Kunal\Course\SMA\p4\Remote Testharness\TServer\bin\Debug\Loader.pdb
+C:\Kunal\Course\SMA\p4\Remote Testharness\TServer\bin\Debug\Parser.pdb
+C:\Kunal\Course\SMA\p4\Remote Testharness\TServer\bin\Debug\Filemanager.pdb
+C:\Kunal\Course\SMA\p4\Remote Testharness\TServer\bin\Debug\Loadandexecute.pdb
+C:\Kunal\Course\SMA\p4\Remote Testharness\TServer\bin\Debug\Logger.pdb
+C:\Kunal\Course\SMA\p4\Remote Testharness\TServer\obj\Debug\TServer.csprojResolveAssemblyReference.cache
+C:\Kunal\Course\SMA\p4\Remote Testharness\TServer\obj\Debug\TServer.exe
+C:\Kunal\Course\SMA\p4\Remote Testharness\TServer\obj\Debug\TServer.pdb
+C:\Kunal\Course\SMA\Project work\Remote Testharness\Remote Testharness\TServer\bin\Debug\TServer.exe.config
+C:\Kunal\Course\SMA\Project work\Remote Testharness\Remote Testharness\TServer\bin\Debug\TServer.exe
+C:\Kunal\Course\SMA\Project work\Remote Testharness\Remote Testharness\TServer\bin\Debug\TServer.pdb
+C:\Kunal\Course\SMA\Project work\Remote Testharness\Remote Testharness\TServer\bin\Debug\Communication.dll
+C:\Kunal\Course\SMA\Project work\Remote Testharness\Remote Testharness\TServer\bin\Debug\CS-BlockingQueue.dll
+C:\Kunal\Course\SMA\Project work\Remote Testharness\Remote Testharness\TServer\bin\Debug\Interface.dll
+C:\Kunal\Course\SMA\Project work\Remote Testharness\Remote Testharness\TServer\bin\Debug\Message.dll
+C:\Kunal\Course\SMA\Project work\Remote Testharness\Remote Testharness\TServer\bin\Debug\Parser.dll
+C:\Kunal\Course\SMA\Project work\Remote Testharness\Remote Testharness\TServer\bin\Debug\TestHarness.dll
+C:\Kunal\Course\SMA\Project work\Remote Testharness\Remote Testharness\TServer\bin\Debug\Utilities.dll
+C:\Kunal\Course\SMA\Project work\Remote Testharness\Remote Testharness\TServer\bin\Debug\Loader.dll
+C:\Kunal\Course\SMA\Project work\Remote Testharness\Remote Testharness\TServer\bin\Debug\Filemanager.dll
+C:\Kunal\Course\SMA\Project work\Remote Testharness\Remote Testharness\TServer\bin\Debug\Loadandexecute.dll
+C:\Kunal\Course\SMA\Project work\Remote Testharness\Remote Testharness\TServer\bin\Debug\Logger.dll
+C:\Kunal\Course\SMA\Project work\Remote Testharness\Remote Testharness\TServer\bin\Debug\Communication.pdb
+C:\Kunal\Course\SMA\Project work\Remote Testharness\Remote Testharness\TServer\bin\Debug\CS-BlockingQueue.pdb
+C:\Kunal\Course\SMA\Project work\Remote Testharness\Remote Testharness\TServer\bin\Debug\Interface.pdb
+C:\Kunal\Course\SMA\Project work\Remote Testharness\Remote Testharness\TServer\bin\Debug\Message.pdb
+C:\Kunal\Course\SMA\Project work\Remote Testharness\Remote Testharness\TServer\bin\Debug\Parser.pdb
+C:\Kunal\Course\SMA\Project work\Remote Testharness\Remote Testharness\TServer\bin\Debug\TestHarness.pdb
+C:\Kunal\Course\SMA\Project work\Remote Testharness\Remote Testharness\TServer\bin\Debug\Utilities.pdb
+C:\Kunal\Course\SMA\Project work\Remote Testharness\Remote Testharness\TServer\bin\Debug\Loader.pdb
+C:\Kunal\Course\SMA\Project work\Remote Testharness\Remote Testharness\TServer\bin\Debug\Filemanager.pdb
+C:\Kunal\Course\SMA\Project work\Remote Testharness\Remote Testharness\TServer\bin\Debug\Loadandexecute.pdb
+C:\Kunal\Course\SMA\Project work\Remote Testharness\Remote Testharness\TServer\bin\Debug\Logger.pdb
+C:\Kunal\Course\SMA\Project work\Remote Testharness\Remote Testharness\TServer\obj\Debug\TServer.csprojResolveAssemblyReference.cache
+C:\Kunal\Course\SMA\Project work\Remote Testharness\Remote Testharness\TServer\obj\Debug\TServer.exe
+C:\Kunal\Course\SMA\Project work\Remote Testharness\Remote Testharness\TServer\obj\Debug\TServer.pdb
